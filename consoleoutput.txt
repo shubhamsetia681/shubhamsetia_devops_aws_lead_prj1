@@ -1,0 +1,7 @@
+Started by user admin
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/devops_lead_jar
+[devops_lead_jar] $ /bin/bash /tmp/jenkins16223232381865743635.sh
+JAR file copied to /usr/shubhamsetia_devops_jenkins_v_2.1_D/
+Execution completed. Log file updated.
+Finished: SUCCESS
